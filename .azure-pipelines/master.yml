@@ -5,7 +5,7 @@ resources:
   - repository: ci-settings
     type: github
     name: angr/ci-settings
-    ref: refs/heads/docker_sock
+    ref: refs/heads/docker
     endpoint: angr
 
 stages:
